@@ -102,6 +102,7 @@ section.pay > div > p {
     color: white;
     vertical-align: middle;
     padding-left: 7px;
+    font-size: 14px;
 }
 
 section.pay > div > img {
